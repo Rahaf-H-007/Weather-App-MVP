@@ -10,8 +10,7 @@ A lightweight, static weather app MVP built with plain HTML, CSS and JavaScript.
 - **Project Structure**: Important files and folders
 - **Run Locally**: How to open and serve the app
 - **Usage**: Quick guide to UI controls
-- **Images / Deployment**: Placeholder for screenshots or deployment links
-- **Contributing**: How to contribute
+- **Live Demo / Screenshots**: Placeholder for screenshots or deployment links
 - **Contact**: Who to reach out to
 
 ## Overview
